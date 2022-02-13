@@ -13,5 +13,8 @@ UCLASS()
 class FNTASTIC_PROJECT_API Afntastic_projectGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
+
+public:
 	
+	Afntastic_projectGameModeBase();
 };
